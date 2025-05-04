@@ -18,7 +18,7 @@ public class Main {
                 throw new Shubham("a should be greater that or equal to b");
             }
         } catch (Exception e) {
-            System.out.println(e+"sdflaskdjflaskdfjalskdfjalsfjasdl;fkja'of");
+            System.out.println(e + "sdflaskdjflaskdfjalskdfjalsfjasdl;fkja'of");
         }
 
         System.out.println(res);
